@@ -1,0 +1,28 @@
+---
+title: "Jiatong Li's awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### About Me 
+
+  Hi! I'm Jiatong Li, currently pursuing a Master of Science degree for Biostatistics at Columbia University, where I specialize in transforming complex biological data into meaningful insights. I'm always looking forward to contributing to and learning more in this exciting field! 
+
+### Contact Information
+
+**Jiatong Li (she/her)**, BSc.
+
+Address: 620 W 153rd St, New York, New York, 10031, United States
+
+Tel: (470)9628118
+
+Email: jl6647@cumc.columbia.edu
+
+GitHub: [jl6647](https://github.com/jl6647)
+
+### My Resume
+
+To know more about me, please navigate to My Resume page. Please feel free to contact me if you need any further information.

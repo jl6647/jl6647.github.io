@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "My Resume"
+      href: github Jiatong Li CV 2022.10.pdf
+    - icon: fa-envelope fa-lg
+      href: mailto:<jl6647@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/jl6647/
+output:
+  html_document:
+    theme: cerulean
